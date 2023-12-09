@@ -1,4 +1,5 @@
-### Hi there 👋
+Embedded Software Engineer with C/Shell.<br>
+Sometimes, HTML/CSS/PHP/Python/etc...
 
 [![Bicity's GitHub stats](https://github-readme-stats.vercel.app/api?username=bicity2&theme=vue-dark&show_icons=true)](https://github.com/bicity2/github-readme-stats)
 
