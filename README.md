@@ -1,4 +1,8 @@
+![hello-world](./image/hello-world.jpg)
+
+<!--
 <img align="center" width="500" src="./image/hello-world.jpg" alt="hello-world" />
+-->
 
 # My Profile bicity
 
