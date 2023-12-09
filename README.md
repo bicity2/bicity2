@@ -1,4 +1,4 @@
-<img align="center" width="500" src="./image/hello-world.png" alt="hello-world" />
+<img align="center" width="500" src="./image/hello-world.JPG" alt="hello-world" />
 
 # My Profile bicity
 
