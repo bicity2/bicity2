@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![Bicity's GitHub stats](https://github-readme-stats.vercel.app/api?username=bicity2&theme=vue-dark&show_icons=true)](https://github.com/bicity2/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bicity2&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/bicity2/github-readme-stats)
+
 <!--
 **bicity2/bicity2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
