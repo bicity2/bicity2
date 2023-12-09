@@ -2,7 +2,6 @@ Embedded Software Engineer with C/Shell.<br>
 Sometimes, HTML/CSS/PHP/Python/etc...
 
 [![Bicity's GitHub stats](https://github-readme-stats.vercel.app/api?username=bicity2&theme=vue-dark&show_icons=true)](https://github.com/bicity2/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bicity2&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/bicity2/github-readme-stats)
 
 <!--
