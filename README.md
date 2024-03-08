@@ -7,7 +7,7 @@
 # My Profile bicity
 
 Embedded Software Engineer with C/Shell.<br>
-Sometimes, HTML/CSS/PHP/Python/etc...
+Sometimes, HTML/CSS/PHP/Python/Flutter/etc...
 
 ---
 
