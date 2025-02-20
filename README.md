@@ -6,8 +6,23 @@
 
 # My Profile bicity
 
-Embedded Software Engineer with C/Shell.<br>
-Sometimes, HTML/CSS/PHP/Python/Flutter/etc...
+## Former Embedded Software Engineer with C/Shell.<br>
+[![My Skills](https://skillicons.dev/icons?i=c,py,bash,vim,jenkins,windows,linux,redhat,debian,git)](https://skillicons.dev)
+
+## ICT class
+[![My Skills](https://skillicons.dev/icons?i=java,eclipse,androidstudio,notion,windows,linux,git,github)](https://skillicons.dev)
+
+## App developer
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,vscode,androidstudio,figma,gcp,windows,apple,git,github,gmail)](https://skillicons.dev)
+
+## Master's degree
+[![My Skills](https://skillicons.dev/icons?i=py,tensorflow,atom)](https://skillicons.dev)
+
+## Hoby
+[![My Skills](https://skillicons.dev/icons?i=html,raspberrypi,arduino,discord,docker,wordpress)](https://skillicons.dev)
+
+# SNS
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/hiro_bicity)
 
 ---
 
