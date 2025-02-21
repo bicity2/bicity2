@@ -6,22 +6,28 @@
 
 # My Profile bicity
 
-## Former Embedded Software Engineer with C/Shell.<br>
-[![My Skills](https://skillicons.dev/icons?i=c,py,bash,vim,jenkins,windows,linux,redhat,debian,git)](https://skillicons.dev)
+## Embedded Software Engineer (Previously)<br>
+C / Python / bash / Vim / Jenkins / Windows / Linux / RedHat / Ubuntu / Debian / Git<br><br>
+[![My Skills](https://skillicons.dev/icons?i=c,py,bash,vim,jenkins,windows,linux,redhat,ubuntu,debian,git)](https://skillicons.dev)
 
 ## ICT class
+Java / Eclipse / Android Studio / Notion / Windows / Linux / Git / GitHub<br><br>
 [![My Skills](https://skillicons.dev/icons?i=java,eclipse,androidstudio,notion,windows,linux,git,github)](https://skillicons.dev)
 
 ## App developer
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,vscode,androidstudio,figma,gcp,windows,apple,git,github,gmail)](https://skillicons.dev)
+Flutter / Dart / VSCode / Android Studio / Figma / Windows / Mac / Git / GitHub / Gmail<br><br>
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,vscode,androidstudio,figma,windows,apple,git,github,gmail)](https://skillicons.dev)
 
 ## Master's degree
+Python / TensorFlow / Atom<br><br>
 [![My Skills](https://skillicons.dev/icons?i=py,tensorflow,atom)](https://skillicons.dev)
 
 ## Hoby
-[![My Skills](https://skillicons.dev/icons?i=html,raspberrypi,arduino,discord,docker,wordpress)](https://skillicons.dev)
+HTML / CSS / MarkDown / Raspberry Pi / Arduino / Discord / Docker / WordPress<br><br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,md,raspberrypi,arduino,discord,docker,wordpress)](https://skillicons.dev)
 
-# SNS
+# SNS (Click on the logo to access)
+Instagram<br><br>
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/hiro_bicity)
 
 ---
