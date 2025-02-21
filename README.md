@@ -4,7 +4,9 @@
 <img align="center" width="500" src="./image/hello-world.jpg" alt="hello-world" />
 -->
 
-# My Profile bicity
+---
+
+# Skills
 
 ## Embedded Software Engineer (Previously)<br>
 C / Python / bash / Vim / Jenkins / Windows / Linux / RedHat / Ubuntu / Debian / Git<br><br>
@@ -18,15 +20,17 @@ Java / Eclipse / Android Studio / Notion / Windows / Linux / Git / GitHub<br><br
 Flutter / Dart / VSCode / Android Studio / Figma / Windows / Mac / Git / GitHub / Gmail<br><br>
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,vscode,androidstudio,figma,windows,apple,git,github,gmail)](https://skillicons.dev)
 
-## Master's degree
+## Master's degree (Biomedical Engineering & AI)
 Python / TensorFlow / Atom<br><br>
 [![My Skills](https://skillicons.dev/icons?i=py,tensorflow,atom)](https://skillicons.dev)
 
-## Hoby
+## Hobby
 HTML / CSS / MarkDown / Raspberry Pi / Arduino / Discord / Docker / WordPress<br><br>
 [![My Skills](https://skillicons.dev/icons?i=html,css,md,raspberrypi,arduino,discord,docker,wordpress)](https://skillicons.dev)
 
-# SNS (Click on the logo to access)
+---
+
+# SNS (Click the icon to visit)
 Instagram<br><br>
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/hiro_bicity)
 
