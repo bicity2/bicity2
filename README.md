@@ -5,6 +5,11 @@
 -->
 
 ---
+# Portfolio  
+
+CUIオセロ（C言語）https://github.com/bicity2/othello-c
+
+---
 
 # Skills
 
