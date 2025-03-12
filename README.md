@@ -33,6 +33,19 @@ Python / TensorFlow / Atom<br><br>
 HTML / CSS / MarkDown / Raspberry Pi / Arduino / Discord / Docker / WordPress<br><br>
 [![My Skills](https://skillicons.dev/icons?i=html,css,md,raspberrypi,arduino,discord,docker,wordpress)](https://skillicons.dev)
 
+## Certifications
+経済産業省認定（IPA）：<br>
+　応用情報技術者（AP）、基本情報技術者（FE）、情報セキュリティマネジメント（SG）<br>
+<br>
+IT系ベンダー資格：<br>
+　ディジタル技術検定 3級<br>
+<br>
+英語系資格：<br>
+　工業英語能力検定 3級、実用英語技能検定 準2級<br>
+<br>
+その他資格：<br>
+　普通自動車第一種運転免許<br>
+
 ---
 
 # SNS (Click the icon to visit)
