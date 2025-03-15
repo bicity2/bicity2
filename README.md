@@ -19,7 +19,7 @@ https://github.com/bicity2/othello-c<br>
 ## 
 
 ### ICTエンジニアWiki（notion)<br>
-関西ポリテクセンターICTエンジニアコース向けのwikiページです。<br>
+ポリテクセンター関西のICTエンジニアコース向けのwikiページです。<br>
 授業内容からITエンジニアが知っておくべきtipsまでまとめてみました💡<br>
 https://automatic-geese-c29.notion.site/1b6f893dbc2880fd9c17cf19fbd65fb1?v=1b6f893dbc2881a1a156000caa81e495<br>
 
