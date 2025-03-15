@@ -32,8 +32,14 @@ C / Python / bash / Vim / Jenkins / Windows / Linux / RedHat / Ubuntu / Debian /
 [![My Skills](https://skillicons.dev/icons?i=c,py,bash,vim,jenkins,windows,linux,redhat,ubuntu,debian,git)](https://skillicons.dev)
 
 ## ICT class
+### Learned
 Java / Eclipse / Android Studio / Notion / Windows / Linux / Git / GitHub<br><br>
 [![My Skills](https://skillicons.dev/icons?i=java,eclipse,androidstudio,notion,windows,linux,git,github)](https://skillicons.dev)
+
+### Learning schedule
+AWS / HTML / CSS / PHP / Laravel / JavaScript / MySQL / Docker<br><br>
+[![My Skills](https://skillicons.dev/icons?i=aws,html,css,php,laravel,js,mysql,docker)](https://skillicons.dev)
+
 
 ## App developer
 Flutter / Dart / VSCode / Android Studio / Figma / Windows / Mac / Git / GitHub / Gmail<br><br>
