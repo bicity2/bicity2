@@ -24,7 +24,15 @@ https://github.com/bicity2/othello-c<br>
 https://automatic-geese-c29.notion.site/1b6f893dbc2880fd9c17cf19fbd65fb1?v=1b6f893dbc2881a1a156000caa81e495<br>
 
 ---
+# Paiza Rank
+## Paizaスキルチェック
+- Java Bランク（2025年4月時点）
+- C言語 Aランク（2023年9月）
+- Python Bランク（2018年10月）
+## Paizaランク情報
+![paiza_rank](./image/paiza_rank.png)
 
+---
 # Skills
 
 ## Embedded Software Engineer (Previously)<br>
