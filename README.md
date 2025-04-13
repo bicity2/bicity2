@@ -23,14 +23,26 @@ https://github.com/bicity2/othello-c<br>
 授業内容からITエンジニアが知っておくべきtipsまでまとめてみました💡<br>
 https://automatic-geese-c29.notion.site/1b6f893dbc2880fd9c17cf19fbd65fb1?v=1b6f893dbc2881a1a156000caa81e495<br>
 
+<!-- 以下、区切り線用 -->
+## 
+
+### 対外向けホームページ（Wix)
+公開予定日：2025年5月1日<br>
+慶應義塾大学公認団体「慶友会」の対外向けHPを作成中です✏️<br>
+プロジェクトは3人で、計画立案、取りまとめを行なっています🔥<br>
+完成後、ここに掲載予定です💡<br>
+
 ---
 # Paiza Rank
 ## Paizaスキルチェック
 - Java Bランク（2025年4月時点）
+![paiza-java-b-2504.png](./image/paiza-java-b-2504.png)
 - C言語 Aランク（2023年9月）
+![paiza-c-a-2309.png](./image/paiza-c-a-2309.png)
 - Python Bランク（2018年10月）
+![paiza-python-b-1810.png](./image/paiza-python-b-1810.png)
 ## Paizaランク情報
-![paiza_rank](./image/paiza_rank.png)
+![paiza-rank](./image/paiza-rank.png)
 
 ---
 # Skills
