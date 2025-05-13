@@ -67,12 +67,12 @@ C / Python / bash / Vim / Jenkins / Windows / Linux / RedHat / Ubuntu / Debian /
 
 ## ICT class
 ### Learned
-Java / Eclipse / Android Studio / Notion / Windows / Linux / Git / GitHub<br><br>
-[![My Skills](https://skillicons.dev/icons?i=java,eclipse,androidstudio,notion,windows,linux,git,github)](https://skillicons.dev)
+Java / Eclipse / Android Studio / Notion / Windows / Linux / Git / GitHub / HTML / CSS<br><br>
+[![My Skills](https://skillicons.dev/icons?i=java,eclipse,androidstudio,notion,windows,linux,git,github,html,css)](https://skillicons.dev)
 
 ### Learning schedule
-AWS / HTML / CSS / PHP / Laravel / JavaScript / MySQL / Docker<br><br>
-[![My Skills](https://skillicons.dev/icons?i=aws,html,css,php,laravel,js,mysql,docker)](https://skillicons.dev)
+AWS / SQL / PHP / Laravel / JavaScript / MySQL / Docker<br><br>
+[![My Skills](https://skillicons.dev/icons?i=aws,mysql,php,laravel,js,mysql,docker)](https://skillicons.dev)
 
 
 ## App developer
