@@ -71,8 +71,8 @@ Java / Eclipse / Android Studio / Notion / Windows / Linux / Git / GitHub / HTML
 [![My Skills](https://skillicons.dev/icons?i=java,eclipse,androidstudio,notion,windows,linux,git,github,html,css,js)](https://skillicons.dev)
 
 ### Learning schedule
-AWS / SQL / PHP / Laravel / MySQL / Docker<br><br>
-[![My Skills](https://skillicons.dev/icons?i=aws,mysql,php,laravel,mysql,docker)](https://skillicons.dev)
+AWS / PHP / Laravel / MySQL / Docker<br><br>
+[![My Skills](https://skillicons.dev/icons?i=aws,php,laravel,mysql,docker)](https://skillicons.dev)
 
 
 ## App developer
