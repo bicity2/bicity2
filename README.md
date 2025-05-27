@@ -32,7 +32,7 @@ https://automatic-geese-c29.notion.site/1b6f893dbc2880fd9c17cf19fbd65fb1?v=1b6f8
 https://kobe-keiyukai.wixstudio.com/home
 
 <!-- 以下、区切り線用 -->
-## 
+<!--## 
 
 ### Webアプリケーション（Java, Spring）
 着手予定日：2025年5月1日<br>
@@ -45,7 +45,7 @@ Springを用いたJavaのWebアプリケーションを作成予定。
 5月25日：実装Fix<br>
 5月31日：テストFix<br>
 6月10日：デプロイ<br>
-
+-->
 ---
 # Paiza Rank
 ## Paizaスキルチェック
