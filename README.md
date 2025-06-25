@@ -91,7 +91,7 @@ React / Vue.js / Node.js / Spring(Spring Framework, Spring Boot) / Elasticsearch
 　応用情報技術者（AP）、基本情報技術者（FE）、情報セキュリティマネジメント（SG）<br>
 <br>
 IT系ベンダー資格：<br>
-　ディジタル技術検定 3級<br>
+　ディジタル技術検定 3級、G検定<br>
 <br>
 英語系資格：<br>
 　工業英語能力検定 3級、実用英語技能検定 準2級<br>
