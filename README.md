@@ -18,10 +18,10 @@ https://github.com/bicity2/othello-c<br>
 <!-- 以下、区切り線用 -->
 ## 
 
-### ICTエンジニアWiki（notion)<br>
+### ICTエンジニアWiki（notion)（最終更新：6月26日）<br>
 ポリテクセンター関西のICTエンジニアコース向けのwikiページを作成しました！<br>
 授業内容からITエンジニアが知っておくべきtipsまでまとめてみました💡<br>
-https://automatic-geese-c29.notion.site/1b6f893dbc2880fd9c17cf19fbd65fb1?v=1b6f893dbc2881a1a156000caa81e495<br>
+https://automatic-geese-c29.notion.site/21df893dbc288022bc72d6ad0571d843?v=21df893dbc28814397df000c5eb2e836<br>
 
 <!-- 以下、区切り線用 -->
 ## 
@@ -62,18 +62,12 @@ Springを用いたJavaのWebアプリケーションを作成予定。
 # Skills
 
 ## Embedded Software Engineer (Previously)<br>
-C / Python / bash / Vim / Jenkins / Windows / Linux / RedHat / Ubuntu / Debian / Git<br><br>
+C / Python / ShellScript / Vim / Jenkins / Windows / Linux / RedHat / Ubuntu / Debian / Git<br><br>
 [![My Skills](https://skillicons.dev/icons?i=c,py,bash,vim,jenkins,windows,linux,redhat,ubuntu,debian,git)](https://skillicons.dev)
 
 ## ICT class
-### Learned
-Java / Eclipse / Android Studio / Notion / Windows / Linux / Git / GitHub / HTML / CSS / JavaScript / PHP / Laravel / MySQL / Docker<br><br>
-[![My Skills](https://skillicons.dev/icons?i=java,eclipse,androidstudio,notion,windows,linux,git,github,html,css,js,php,laravel,mysql,docker)](https://skillicons.dev)
-
-### Learning schedule
-AWS<br><br>
-[![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
-
+Java / Eclipse / Android Studio / VSCode / Vim / ShellScript / PowerShell / Notion / Windows / Linux / Git / GitHub / HTML / CSS / Bootstrap / JavaScript / Node.js / npm / PHP / Laravel / MySQL / Docker / AWS<br><br>
+[![My Skills](https://skillicons.dev/icons?i=java,eclipse,androidstudio,vscode,vim,bash,powershell,notion,windows,linux,git,github,html,css,bootstrap,js,nodejs,npm,php,laravel,mysql,docker,aws)](https://skillicons.dev)
 
 ## App developer
 Flutter / Dart / VSCode / Android Studio / Figma / Windows / Mac / Git / GitHub / Gmail<br><br>
