@@ -18,6 +18,17 @@ https://github.com/bicity2/othello-c<br>
 <!-- 以下、区切り線用 -->
 ## 
 
+### 書籍管理システム（HTML/CSS/JS/PHP(Laravel)/MySQL）<br>
+
+会社等に所蔵している書籍を管理するシステムです。<br>
+一般ユーザは書籍の評価登録や、所蔵書籍一覧の確認ができます。<br>
+総務部ユーザは上記に加えて書籍の登録・削除が行えます。<br>
+Laravelを使用してMVCモデルを構築しました。<br>
+https://github.com/bicity2/ICT_GP<br>
+
+<!-- 以下、区切り線用 -->
+## 
+
 ### ICTエンジニアWiki（notion)（最終更新：6月26日）<br>
 ポリテクセンター関西のICTエンジニアコース向けのwikiページを作成しました！<br>
 授業内容からITエンジニアが知っておくべきtipsまでまとめてみました💡<br>
