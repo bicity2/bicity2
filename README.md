@@ -112,12 +112,6 @@ IT系ベンダー資格：<br>
 
 ---
 
-# SNS (Click the icon to visit)
-Instagram<br><br>
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/hiro_bicity)
-
----
-
 [![Bicity's GitHub stats](https://github-readme-stats.vercel.app/api?username=bicity2&theme=vue-dark&show_icons=true)](https://github.com/bicity2/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bicity2&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/bicity2/github-readme-stats)
 
