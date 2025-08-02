@@ -29,10 +29,10 @@ https://github.com/bicity2/ICT_GP<br>
 <!-- 以下、区切り線用 -->
 ## 
 
-### ICTエンジニアWiki（notion)（最終更新：6月26日）<br>
+### ICTエンジニアWiki（notion)<br>
 ポリテクセンター関西のICTエンジニアコース向けのwikiページを作成しました！<br>
 授業内容からITエンジニアが知っておくべきtipsまでまとめてみました💡<br>
-https://automatic-geese-c29.notion.site/21df893dbc288022bc72d6ad0571d843?v=21df893dbc28814397df000c5eb2e836<br>
+https://automatic-geese-c29.notion.site/188f893dbc2880e881b1fe04cbd7b62c?v=188f893dbc288105b47e000cc7926dc6<br>
 
 <!-- 以下、区切り線用 -->
 ## 
