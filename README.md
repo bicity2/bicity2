@@ -76,7 +76,7 @@ Springを用いたJavaのWebアプリケーションを作成予定。
 C / Python / ShellScript / Vim / Jenkins / Windows / Linux / RedHat / Ubuntu / Debian / Git<br><br>
 [![My Skills](https://skillicons.dev/icons?i=c,py,bash,vim,jenkins,windows,linux,redhat,ubuntu,debian,git)](https://skillicons.dev)
 
-## ICT class
+## ICT class (Job training)
 Java / Eclipse / Android Studio / VSCode / Vim / ShellScript / PowerShell / Notion / Windows / Linux / Git / GitHub / HTML / CSS / Bootstrap / JavaScript / Node.js / npm / PHP / Laravel / MySQL / Docker / AWS<br><br>
 [![My Skills](https://skillicons.dev/icons?i=java,eclipse,androidstudio,vscode,vim,bash,powershell,notion,windows,linux,git,github,html,css,bootstrap,js,nodejs,npm,php,laravel,mysql,docker,aws)](https://skillicons.dev)
 
