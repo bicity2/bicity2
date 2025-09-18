@@ -93,9 +93,11 @@ Python / TensorFlow / Atom<br><br>
 HTML / CSS / MarkDown / Raspberry Pi / Arduino / Discord / Docker / WordPress<br><br>
 [![My Skills](https://skillicons.dev/icons?i=html,css,md,raspberrypi,arduino,discord,docker,wordpress)](https://skillicons.dev)
 
+<!-- モバイルアプリ開発に専念のためペンディング
 ### Learning schedule
 React / Vue.js / Node.js / Spring(Spring Framework, Spring Boot) / Elasticsearch / Selenium
 [![My Skills](https://skillicons.dev/icons?i=react,vue,nodejs,spring,elasticsearch,selenium,)](https://skillicons.dev)
+-->
 
 ## Certifications
 経済産業省認定（IPA）：<br>
